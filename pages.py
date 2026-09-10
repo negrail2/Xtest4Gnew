@@ -80,8 +80,7 @@ input:focus+.ic{color:var(--accent)}
       </div>
       <button class="btn" type="submit" id="btn"><i class="ti ti-login-2"></i> ورود به داشبورد</button>
     </form>
-    <div class="footer">پشتیبانی <a href="https://t.me/Farajian2004f" target="_blank"><i class="ti ti-brand-telegram"></i>@Farajian2004f</a></div>
-  </div>
+     </div>
 </div>
 <script>
 document.getElementById('form').addEventListener('submit',async e=>{
@@ -886,8 +885,7 @@ a{color:inherit;text-decoration:none}
   </div>
   <div class="dash-footer">
     <span class="df-text">X4G v9.5 · Railway</span>
-    <a class="df-link" href="https://t.me/Farajian2004f" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/Farajian2004f</a>
-    
+      
   </div>
 </section>
 <section class="pg" id="pg-links">
@@ -2172,7 +2170,6 @@ html,body{{min-height:100%;background:var(--bg);font-family:var(--serif);color:v
   <div id="root">
     <div class="empty-state"><i class="ti ti-loader-2" style="animation:spin 1s linear infinite"></i>در حال بارگذاری...</div>
   </div>
-  <div class="footer">پشتیبانی: <a href="https://t.me/Farajian2004f" target="_blank">@Farajian2004f</a> · X4G v9.5</div>
 </div>
 <script>
 const UUID_KEY='{uuid_key}';
