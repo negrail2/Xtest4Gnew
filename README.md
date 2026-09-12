@@ -1,6 +1,3 @@
-کانال یوتوب : [https://www.youtube.com/@X4GHUB](https://www.youtube.com/@X4GHUB)
-
-# 🚀 X4G
 
 دروازه (Gateway) سریع و مدرن برای تونل‌زنی VLESS روی WebSocket و XHTTP + HTTP Proxy، با داشبورد مدیریتی زیبا، **ربات مدیریت تلگرام**، صفحات ساب حرفه‌ای و قابلیت ساخت لینک‌های اختصاصی با محدودیت ترافیک، سرعت و آی‌پی.
 
@@ -26,7 +23,7 @@
 
 ## 2️⃣ Deploy روی Railway
 
-1. وارد سایت [Railway.app](https://railway.app/) شوید.
+1. وارد سایت [Railway.com](https://railway.com/) شوید.
 2. روی New Project → Deploy from GitHub repo کلیک کنید.
 3. ریپازیتوری Fork شده را انتخاب کنید.
 4. Railway به‌صورت خودکار پروژه را Deploy می‌کند.
@@ -75,7 +72,6 @@
 | `ADMIN_PASSWORD` | رمز عبور ورود به داشبورد وب | `X4GKING` |
 | `SECRET_KEY` | کلید امضای سشن/پسورد؛ اگر تنظیم نشود، خودکار ساخته و روی دیسک ذخیره می‌شود | — |
 | `DATA_DIR` | مسیر ذخیره‌سازی وضعیت (نیازمند Volume دائمی) | `/data` |
-| `TELEGRAM_BOT_TOKEN` | توکن ربات تلگرام (اختیاری) | — |
 | `TELEGRAM_ADMIN_IDS` | آیدی عددی ادمین‌های مجاز ربات، جدا با کاما (اختیاری) | — |
 | `RAILWAY_PUBLIC_DOMAIN` | دامنه عمومی سرویس؛ به‌صورت خودکار توسط Railway تنظیم می‌شود | `localhost` |
 
